@@ -11,3 +11,6 @@ Creo que es una buena forma de ir dando a conocer mis conocimientos, mi forma de
 
 Por si te estás preguntando porqué lo hago en este formato, la explicación es sencilla. Hacer un video blog o un podcast o un libro o una revista me ocuparía mucho tiempo y en estos momentos de mi vida no puedo abordar mucho más. Con este formato puedo ir escribiendo en los momentos que tenga tiempo, puedo ir haciendo la exposición de forma esquemática y bastante intuitiva para la persona que pueda verlo.
 
+## Formación
+
+Para poder leer los cursos y la formación oficial que tengo, puedes ir [aquí](https://github.com/amadorsoy/professionalexperience/tree/master/formacion)
