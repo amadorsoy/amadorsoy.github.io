@@ -1,37 +1,10 @@
 ## Experiencia profesional 
 
-You can use the [editor on GitHub](https://github.com/amadorsoy/professionalexperience/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+He tomado la iniciativa de ir explicando mi experiencia profesional en este repositorio, voy a intentar ser lo más claro y detallado posible omitiendo cualquier tipo de información que pueda afectar a la privacidad de las empresas que formo o he formado parte.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El principal problema es poder hacerlo de una forma lógica, así que voy a intentar hacerlo por proyectos, explicando la situación anterior, el proceso de cambio y el resultado siempre que se pueda.
 
-### Markdown
+Creo que es una buena forma de ir dando a conocer mis conocimientos, mi forma de afrontar el trabajo y mi experiencia laboral. También pienso que con esta acción quizás pueda ayudar también a otras personas que se encuentren en las situaciones que yo me he encontrado.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Por si te estás preguntando porqué lo hago en este formato, la explicación es sencilla. Hacer un video blog o un podcast o un libro o una revista me ocuparía mucho tiempo y en estos momentos de mi vida no puedo abordar mucho más. Con este formato puedo ir escribiendo en los momentos que tenga tiempo, puedo ir haciendo la exposición de forma esquemática y bastante intuitiva para la persona que pueda verlo.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amadorsoy/professionalexperience/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
