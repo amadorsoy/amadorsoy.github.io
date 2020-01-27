@@ -14,3 +14,7 @@ Por si te estás preguntando porqué lo hago en este formato, la explicación es
 ## Formación
 
 Para poder leer los cursos y la formación oficial que tengo, puedes ir [aquí](https://github.com/amadorsoy/professionalexperience/tree/master/formacion)
+
+## Experiencia Laboral
+
+Para poder ver la experiencia y como he llegado a la misma, puedes ir [aquí]
