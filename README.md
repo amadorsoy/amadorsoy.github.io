@@ -17,4 +17,4 @@ Para poder leer los cursos y la formación oficial que tengo, puedes ir [aquí](
 
 ## Experiencia Laboral
 
-Para poder ver la experiencia y como he llegado a la misma, puedes ir [aquí]
+Para poder ver la experiencia y como he llegado a la misma, puedes ir [aquí](https://github.com/amadorsoy/professionalexperience/tree/master/proyectos)
