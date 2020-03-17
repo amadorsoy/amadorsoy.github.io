@@ -1,13 +1,19 @@
-# Virtualización
+# Virtualización -  Desde la Era del Hiero a la Nube
 
-## Proyecto
+Corrían tiempos complicados, donde el _Hierro_ empezaba a ser un problema para las estructuras empresariales, en aquella época aparecieron varias _fuerzas blancas_ que intentaban ayudar a sobrevivir al fin de los tiempos del hierro y perdurar en los siguientes años.
 
-En mi andadura por Maderas Santana, S.L. la estructura del departamento de sistemas estaba compuesta por el jefe de departamento y yo mismo, en aquel momento mi jefe de departamento me indica que tenemos que ver una solución de virtualización y me comenta los dos sistemas que tendríamos que analizar: VMWare y [Red Hat KVM](https://www.redhat.com/es/topics/virtualization/what-is-KVM). Cabe indicar que en ese momento las dos soluciones que se analizaban eran completamente gratuitas, la versión de ESXi era gratuita y ofrecía lo mismo que su hermana licenciada, pero con algunas limitaciones como que no permitía la migración entre hosts de maquinas clientes en caliente, pero era muy funcional. Y por su parte KVM sobre CentOS era también completamente gratuita.
+Dada mi condición de mago me tocó investigar dos de estas fuerzas **VMWare** y **KVM de Red Hat**. Apliqué las mismas normas y el mismo protócolo para analizar estos sistemas. La lista de habilidades y pócimas usadas para las pruebas fueron:
 
-A partir de ese momento me pongo a montar sobre un equipo la solución de [VMWare ESXi](https://es.wikipedia.org/wiki/VMware_ESXi) como servidor de virtualización y un cliente virtualizado, comprobar con qué herramientas podíamos contar con VMWare de cara a la instalación, mantenimiento y gestión de las máquinas virtuales. Tras completar la pequeña lista de cosas que tenía que evaluar, formatear e instalar un CentOS para usar KVM, montar la misma estructura y por supuesto analizar los mismos puntos.
+- Host: un equipo con no mucha memoría ya que escaseaban por aquellos tiempos.
+- Fuerzas:
+  - VMWare ESXI: la versión [VMWare ESXi](https://es.wikipedia.org/wiki/VMware_ESXi) en aquel momento era gratuita y muy funcional.
+  - KVM Red Hat: [Red Hat KVM](https://www.redhat.com/es/topics/virtualization/what-is-KVM) en ese momento instalada sobre CentOS.
+- Protocolo (receta):
+  - Eliminar todos los datos del Host, proceso conocido por _formateo_.
+  - Instalar una de las fuerzas, primero **KVM** y luego mismo proceso para instalar **VMWARE**.
+  - Configurar el Host para poder realizar tareas de instalación, configuración y administración de sistemas virtualizados.
+  - Una vez instalado todo el cliente evaluación de las herramientas de control, supervisión y gestión de las maquinas virtualizadas
 
-En ese momento del análisis la solución de VMWare ofrecía mejores herramientas de administración y gestión. Además el rendimiento con la red era un poco mayor. Finalmente se escogió VMWare ESXi. A partir de ese momento, migración de ordenadores físicos a la solución de virtualización.
+Dato nuestro contexto, la fuerza que tendríamos que seguir era **VMWare ESXI** ya que en ese momento facilitaba al departamento las tareas diarias de gestión de maquinas virtuales, así como la migración de servicios existentes a virtualización.
 
-Por supuesto, mi jefe de departamento tuvo la visión en ese momento de iniciar el proceso de virtualización y aprovechar la arquitectura que teníamos para sacarle mejor rendimiento con la ampliación de memoria correspondiente.
-
-De esta forma tan práctica tuve mi acercamiento a VMWare, después de eso vendrían unos cuantos años de administración de los servidores virtualizados y una estrecha relación con VMWare.
+Desde ese momento hasta la fecha, como _mago con dotes para sistemas_ he podido usar **VMWare** tanto con la licencia gratuita ofrecida con **ESXI** como la licencia profesional, también [_XEN Server_](https://xenserver.org/) y [_OVirt_](https://www.ovirt.org/).
