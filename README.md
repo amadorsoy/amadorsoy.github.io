@@ -9,8 +9,8 @@ Para no aburrir, a parte de intentar organizar en la medida de lo posible el des
 
 ## Formación
 
-Para poder leer los cursos y la formación oficial que tengo, puedes ir [aquí](https://github.com/amadorsoy/professionalexperience/tree/master/formacion)
+Para poder leer los cursos y la formación oficial que tengo, puedes ir [aquí](https://amadorsoy.github.io/formacion)
 
 ## Experiencia Laboral
 
-Para poder ver la experiencia y como he llegado a la misma, puedes ir [aquí](https://github.com/amadorsoy/professionalexperience/tree/master/proyectos)
+Para poder ver la experiencia y como he llegado a la misma, puedes ir [aquí](https://amadorsoy.github.io//proyectos)

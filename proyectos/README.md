@@ -12,8 +12,8 @@ Empresas donde he desarrollado y/o desarrollo mis funciones:
 
 ## Virtualización -  Desde la Era del Hiero a la Nube
 
-Virtualización, aprovechamiento de los recursos [aquí](https://github.com/amadorsoy/professionalexperience/tree/master/proyectos/virtualizacion)
+Virtualización, aprovechamiento de los recursos [aquí](https://amadorsoy.github.io/proyectos/virtualizacion)
 
 ## Capturadores - A la caza del dato
 
-Almacén, realizando funciones con capturadores [aquí](https://github.com/amadorsoy/professionalexperience/blob/master/proyectos/capturadores)
+Almacén, realizando funciones con capturadores [aquí](https://amadorsoy.github.io/proyectos/capturadores)
