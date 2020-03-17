@@ -8,7 +8,7 @@ Dada mi condición de mago me tocó investigar dos de estas fuerzas **VMWare** y
 - Fuerzas:
   - VMWare ESXI: la versión [VMWare ESXi](https://es.wikipedia.org/wiki/VMware_ESXi) en aquel momento era gratuita y muy funcional.
   - KVM Red Hat: [Red Hat KVM](https://www.redhat.com/es/topics/virtualization/what-is-KVM) en ese momento instalada sobre CentOS.
-- Protocolo (receta):
+- Protocgitolo (receta):
   - Eliminar todos los datos del Host, proceso conocido por _formateo_.
   - Instalar una de las fuerzas, primero **KVM** y luego mismo proceso para instalar **VMWARE**.
   - Configurar el Host para poder realizar tareas de instalación, configuración y administración de sistemas virtualizados.
