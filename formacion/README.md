@@ -11,22 +11,22 @@ Para volver al inicio [aquí](https://amadorsoy.github.io/)
 
 ### Noviembre de 2019 a la actualidad
 
-**BootCamp de Big Data y Machine learning** en keepCoding.
+**BootCamp de Big Data y Machine learning** en [keepCoding](https://keepcoding.io/).
 
 
 ### Agosto de 2019
 
-**Gestión de proyectos con metodologías Ágiles y enfoques LEAN** en MIRIADAX Telefónica Universitas.
+**Gestión de proyectos con metodologías Ágiles y enfoques LEAN** en [MIRIADAX](https://miriadax.net/home) Telefónica Universitas.
 
 
 ### 2016-2017
 
-**Desarrollo de aplicaciones multiplataforma para dispositivos móviles** en UNED
+**Desarrollo de aplicaciones multiplataforma para dispositivos móviles** en [UNED](https://www.uned.es/universidad/inicio.html)
 
 
 ### 1998-2000
 
-**Desarrollo de Aplicaciones informáticas** en I.E.S. La Senia.
+**Desarrollo de Aplicaciones informáticas** en [I.E.S. La Senia](https://www.ieslasenia.org/?oreawe67tdyfc=yes).
 
 ## Otra Formación
 
