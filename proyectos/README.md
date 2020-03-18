@@ -18,10 +18,13 @@ Empresas donde he desarrollado y/o desarrollo mis funciones:
 
 Virtualización, aprovechamiento de los recursos [aquí](https://amadorsoy.github.io/proyectos/virtualizacion)
 
-## Capturadores - A la caza del dato
+## Capturadores - La conquiste de la tierra Almacén
 
 Almacén, realizando funciones con capturadores [aquí](https://amadorsoy.github.io/proyectos/capturadores)
 
+## Linux - Integrando mundos
+
+Linux, servicios con software libre integrado con LDAP [aquí]()
 
 ***
 
