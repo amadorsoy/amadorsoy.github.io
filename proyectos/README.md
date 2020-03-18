@@ -24,7 +24,7 @@ Almacén, realizando funciones con capturadores [aquí](https://amadorsoy.github
 
 ## Linux - Integrando mundos
 
-Linux, servicios con software libre integrado con LDAP [aquí]()
+Linux, servicios con software libre integrado con LDAP [aquí](https://amadorsoy.github.io/proyectos/linux/)
 
 ***
 
