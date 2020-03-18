@@ -26,6 +26,11 @@ Almacén, realizando funciones con capturadores [aquí](https://amadorsoy.github
 
 Linux, servicios con software libre integrado con LDAP [aquí](https://amadorsoy.github.io/proyectos/linux/)
 
+## Jardín - Los colores de los deseos
+
+Un lugar para ver diferentes proyectos que me han aportado conocimientos [aquí](https://amadorsoy.github.io/proyectos/jardin/)
+
+
 ***
 
 Para volver al inicio [aquí](https://amadorsoy.github.io/)

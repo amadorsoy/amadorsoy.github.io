@@ -26,5 +26,8 @@ El sistema como es obvio evolucionó, empezamos por trabajar directamente con la
 
 Hacer trabajo de campo, caminar con las personas que trabajan en el almacén, hablar con ellos, analizar las necesidades y poder ofrecer soluciones a pequeños detalles ayudaba no solo al desarrollo de la actividad diaria, también a subir mi nivel de análisis y creatividad para solucionar problemas reales. Prestar atención al **feedback** de los usuarios y a los requisitos de la dirección (que me hacía llegar mi superior) provocaba tener que estar atento y rápido a cambios contínuos.
 
+Lenguaje de Programación - C# Para Dispositivos, Delphi Para Escritorio
+Base de Datos: SQLite Para Dispositivos, SQL Server y DB2 en Servidor.
+
 ***
 Volver a experiencia [aquí](https://amadorsoy.github.io/proyectos/)
