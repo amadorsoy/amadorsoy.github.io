@@ -14,7 +14,7 @@ Empresas donde he desarrollado y/o desarrollo mis funciones:
 - 2002 - 2006: AF Argonet, S. A.
 
 
-## Virtualización -  Desde la Era del Hiero a la Nube
+## Virtualización -  Desde la Era del Hierro a la Nube
 
 Virtualización, aprovechamiento de los recursos [aquí](https://amadorsoy.github.io/proyectos/virtualizacion)
 
