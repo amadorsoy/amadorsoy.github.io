@@ -42,6 +42,10 @@ La flota de vehículos, hay que gestionar muchas cosas [aquí](https://amadorsoy
 
 Cuando se necesitan datos que no se habían visto hasta ahora [aquí](https://amadorsoy.github.io/proyectos/crm/)
 
+## ¡Que vienen los Reyes!: la lista de deseos
+
+Llega un momento en el que no estás haciendo proyectos, estás haciendo realidad deseos [aquí](https://amadorsoy.github.io/proyectos/b2balmacenerocallcenter/)
+
 ***
 
 Para volver al inicio [aquí](https://amadorsoy.github.io/)
