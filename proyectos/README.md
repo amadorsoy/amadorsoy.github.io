@@ -38,6 +38,10 @@ La primera magia como mago blanco, salvando el mundo RU [aquí](https://amadorso
 
 La flota de vehículos, hay que gestionar muchas cosas [aquí](https://amadorsoy.github.io/proyectos/gestionflotas/)
 
+## Al rico CRM: datos y más datos.
+
+Cuando se necesitan datos que no se habían visto hasta ahora [aquí](https://amadorsoy.github.io/proyectos/crm/)
+
 ***
 
 Para volver al inicio [aquí](https://amadorsoy.github.io/)
