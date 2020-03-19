@@ -30,6 +30,9 @@ Linux, servicios con software libre integrado con LDAP [aquí](https://amadorsoy
 
 Un lugar para ver diferentes proyectos que me han aportado conocimientos [aquí](https://amadorsoy.github.io/proyectos/jardin/)
 
+## La Migración: salvar el Mundo RU
+
+La primera magia como mago blanco, salvando el mundo RU [aquí](https://amadorsoy.github.io/proyectos/salvarelmundo/)
 
 ***
 
