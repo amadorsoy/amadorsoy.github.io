@@ -34,6 +34,10 @@ Un lugar para ver diferentes proyectos que me han aportado conocimientos [aquí]
 
 La primera magia como mago blanco, salvando el mundo RU [aquí](https://amadorsoy.github.io/proyectos/salvarelmundo/)
 
+## Al abordaje: gestión de flotas
+
+La flota de vehículos, hay que gestionar muchas cosas [aquí](https://amadorsoy.github.io/proyectos/gestionflotas/)
+
 ***
 
 Para volver al inicio [aquí](https://amadorsoy.github.io/)
