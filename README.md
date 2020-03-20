@@ -1,5 +1,5 @@
 # Amador López Parra - Experiencia profesional
-
+![Foto Perfil](https://miro.medium.com/fit/c/128/128/1*dzptKmSyGldifHIqailFgg.jpeg)
 
 ## Contextualizando
 
