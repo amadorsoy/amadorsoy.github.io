@@ -46,6 +46,12 @@ Cuando se necesitan datos que no se habían visto hasta ahora [aquí](https://am
 
 Llega un momento en el que no estás haciendo proyectos, estás haciendo realidad deseos [aquí](https://amadorsoy.github.io/proyectos/b2balmacenerocallcenter/)
 
+
+## Desplegando las naves
+
+Desplegando cambios de versiones en más de 100 equipos [aquí](https://amadorsoy.github.io/proyectos/versiones/)
+
+
 ***
 
 Para volver al inicio [aquí](https://amadorsoy.github.io/)
