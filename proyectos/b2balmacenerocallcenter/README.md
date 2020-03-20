@@ -1,7 +1,5 @@
 #¡Que vienen los Reyes!: la lista de deseos
 
-INCOMPLETO----EN DESARROLLO
-
 Volver a experiencia [aquí](https://amadorsoy.github.io/proyectos/)
 
 ***
@@ -34,8 +32,35 @@ Esto sería un cambio en la forma de trabajar, porque pasé de realizar API Rest
 
 - Dispositivos móviles, lectores de códigos de barra por bluetooth, medios de transporte de los dispositivos.
 - Dispositivos Wifi, para dar cobertura a todo el almacén de red.
-- API para desarrollar las labores del almacenero.
-- ...
+- API para desarrollar las labores del almacenero y para los servicios del B2B. Incluido servicio de notificaciones.
+- Generación de una estructura de comunicación con el B2B, tanto para que los clientes pudieran ver nuestros productos, como para recibir automáticamente los pedidos y convertirlos en _carritos de la compra_ que pudieran leer los operarios de la empresa.
+
+### Desarrollo del trabajo
+
+Para esta tarea se contrato a una persona para que hiciera el desarrollo de la aplicación móvil. Se había elegido Android ya que hay muchos más dispositivos asequibles económicamente y por ser un sistema para el que desarrollar no tiene un coste económico alto. 
+
+Me puse a desarrollar el **API** que usaría tanto el sistema de comunicación con el **B2B**, como la aplicación del almacenero y que además posteriormente usaría también la aplicación de Mostrador para poder habilitar un **Call-Center**, claro que esto fue el último paso que se realizó. Mientras el compañero nuevo se encargaba de la APP, otro compañero se encargaba del sistema de notificaciones.
+
+En mis tareas también estaban la de hacer posible que nuestra base de datos (creada desde hace más de 20 años) pudiera comunicar con el sistema de B2B, lo más fácil eran los clientes, almacenes y otros datos básicos, pero el problema existía en los artículos y aquí es donde solo las personas del sector conocen esta problemática de primera mano.
+
+El despliegue del sistema fue por fases, primero se puso en marcha el cambio en la forma de trabajar del almacén, una vez esto estuvo probado se puso en marcha el B2B. Creo que la diferencia de uno y otro en tiempo serían 2 o 3 semanas.
+
+El despliegue del **Call-Center** vino posteriormente, nos percatamos que con unos cambios en el software del Mostrador (el que se usa para la venta) se podría habilitar y tras conversaciones con el proveedor de telefonía y unos cambios en la empresa se puso en marcha.
+
+Por supuesto que no todo salió bien a la primera y han habido que hacer cambios en el software y en el API para el call-center, revisar procesos de la base de datos y demás, pero se consiguió poner en marcha un sistema **B2B**, un cambio en la forma de trabajar del **Almacén** y un **Call-Center** en unos pocos meses de trabajo, son muchos cambios e importantes, pero ahora se tiene un sistema bastante desatendido.
+
+
+Desarrollo de softaware: 
+- API: Uso de GraphQL con JavaScript, usando NodeJS. Sequelize como ORM para la relación con la base de datos.
+- Software para el escritorio: Delphi, tanto para el programa del mostrador como para nuevos programas que se crearon.
+
+Administración: cambios en la base de datos para poder configurar y gestionar tanto el nuevo flujo de información como los nuevos datos que ibamos a tener de la venta a través de internet como de nuestro trabajo en almacén y call-center.
+
+Análisis: principal responsable del análisis de requerimientos y necesidades.
+
+Gestión: junto con otro compañero, máximos responsables del desarrollo de los trabajos, formación, puesta en marcha y desarrollo de todos los procesos.
+
+
 
 
 
