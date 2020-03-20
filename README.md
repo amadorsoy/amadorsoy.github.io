@@ -1,4 +1,4 @@
-# Amador López Parra - Experiencia profesional
+# Amador López Parra
 ![Foto Perfil](https://miro.medium.com/fit/c/128/128/1*dzptKmSyGldifHIqailFgg.jpeg)
 
 ## Contextualizando
