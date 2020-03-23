@@ -10,6 +10,19 @@ Para esto, hay muy buenas prácticas en [**SCRUM**](https://es.wikipedia.org/wik
 
 A continuación las _flores_ que he tenido que _cuidar_ durante mi trayectoria profesional, o lo que es lo mismo distintos proyectos que me han permitido ver diferentes aspectos de la estructura empresarial:
 
+## Impresión: integración con Microsoft Office
+
+En el software de Gestión que desarrollabamos, se requería poder usar Microsoft Word, como gestor de informes. El proyecto era interesante, principalmente por la poca documentación que había en ese momento sobre la interacción con el paquete de ofimática.
+
+Se creó un _gestor de informes_ que usaba la combinación de correspondencia para insertar los campos en una plantilla de Word, dicha plantilla posteriormente se usaba para imprimir informes, recibos, facturas, etc.
+
+De esta forma, se incluyó un gestor de informes en un software de Gestión, que permitía al cliente usar su paquete ofimático.
+
+Lenguaje de programación - Delphi
+Base de datos - FireBird.
+Comunicación con Software de Terceros - Microsoft Office
+
+
 ## Gestión de personal
 
 Software para el departamento de Recursos Humanos para poder gestionar los datos de los distintos empleados de la empresa y de los currículumns que llegan a la empresa.
@@ -20,6 +33,7 @@ Para entrar en la gestión de cada persona (sea empleado o no) se hacía doble c
 
 Lenguaje de programación - Delphi.
 Base de datos - SQL Server
+
 
 ## Marketing: sistema de catálogos, folletos...
 
@@ -35,17 +49,19 @@ Lenguaje de programación - Delphi
 Base de Datos - SQL Server, DB2
 Comunicación con Software de Terceros - Adobe Illustrator
 
-## Impresión: integración con Microsoft Office
+## Fichajes: Gestión de fichajes
 
-En el software de Gestión que desarrollabamos, se requería poder usar Microsoft Word, como gestor de informes. El proyecto era interesante, principalmente por la poca documentación que había en ese momento sobre la interacción con el paquete de ofimática.
+Con el cambio de legislación en cuanto a la gestión de los fichajes del personal de la empresa, tuve que configurar un sistema de gestión turnos y fichajes con el que pudieramos dar solución no solo al personal de oficina o tienda, sino también al personal que teníamos haciendo rutas de entrega, a los comerciales, etc.
 
-Se creó un _gestor de informes_ que usaba la combinación de correspondencia para insertar los campos en una plantilla de Word, dicha plantilla posteriormente se usaba para imprimir informes, recibos, facturas, etc.
+Tenemos un sistema complejo de turnos y como desde un principio han solicitado desde trabajo saber esos turnos, tuve que configurar una base de datos que además de permitir configurar estos turnos, hiciesen una rotación automática del personal en los turnos.
 
-De esta forma, se incluyó un gestor de informes en un software de Gestión, que permitía al cliente usar su paquete ofimático.
+Tras crear la estructura de la base de datos, me puse con el API, para que se pudiera consumir desde una web, como de la APP que estaba haciendo mi compañero.
 
-Lenguaje de programación - Delphi
-Base de datos - FireBird.
-Comunicación con Software de Terceros - Microsoft Office
+Cuando tuve montada el API, lo primero fue modificar todos aquellos programas que teníamos en la empresa con una gestión de fichajes anterior que no se adaptaba a las necesidades de la ley actual. 
+
+Lenguaje de programación - Delphi para el software existente, TypeScript con NestJS para el API.
+Base de datos - SQL Server
+
 
 
 
