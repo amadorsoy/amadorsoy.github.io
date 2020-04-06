@@ -13,8 +13,8 @@ Para poder leer los cursos y la formación oficial que tengo, puedes ir [aquí](
 
 ## Experiencia Laboral
 
-Para poder ver la experiencia y como he llegado a la misma, puedes ir [aquí](https://amadorsoy.github.io//proyectos)
+Para poder ver la experiencia y como he llegado a la misma, puedes ir [aquí](https://amadorsoy.github.io/proyectos)
 
 ## Día a día
 
-Un lugar para poder contar mis experiencias profesionales y personales. Iniciado el 06/04/2020 con el confinamiento provocado por el coronavirus, creo que más para encuadrar mi mente y no perderla en el abismo, puedes ir [aquí](https://github.com/amadorsoy/professionalexperience/tree/master/diario)
+Un lugar para poder contar mis experiencias profesionales y personales. Iniciado el 06/04/2020 con el confinamiento provocado por el coronavirus, creo que más para encuadrar mi mente y no perderla en el abismo, puedes ir [aquí](https://amadorsoy.github.io/diario)
