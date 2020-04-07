@@ -2,3 +2,5 @@
 
 Día [06/04/2020](https://amadorsoy.github.io/diario/20200406/) ya no sé ni que pensar.
 
+Día [07/04/2020](https://amadorsoy.github.io/diario/20200407/) habrá repunte, seguro.
+
