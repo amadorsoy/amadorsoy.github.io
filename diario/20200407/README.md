@@ -1,4 +1,4 @@
-# Lunes 07 de Abril de 2020
+# Martes 07 de Abril de 2020
 
 Volver al inicio [aquí](https://amadorsoy.github.io/diario)
 
